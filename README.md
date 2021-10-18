@@ -1,14 +1,25 @@
 <h1> MariosPizzaBar </h1>
 
+<h2> Gruppe informationer </h2>
+
 Gruppe Nummer: 1
 
-Navn: Malthe Holm Karlsson <br>
+Malthe Holm Karlsson <br>
+IfMalthereturnawesome <br>
+https://github.com/IfMalthereturnawesome/
 
-Navn: Mohammad Adel Murtada  <br>
+Mohammad Adel Murtada  <br>
+Mojens <br>
+https://github.com/Mojens
 
-Navn: Simon Igild <br>
 
-Navn: Sebastian Bak Lundahl <br>
+Simon Igild <br>
+Chinesethunder <br>
+https://github.com/chinesethunder
+
+Sebastian Bak Lundahl <br>
+seba167m <br>
+https://github.com/seba167m/
 
 <h2> Virksomhed </h2>
 
