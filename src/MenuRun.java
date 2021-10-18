@@ -15,7 +15,7 @@ public class MenuRun {
     menuItem[6] = "Se pizza menu";
     menuItem[9] = "QUIT"; //indeks 9
 
-    Menu menu = new Menu("HOVEDMENU", "Vælg en mulighed: ", menuItem); //Bruger konstruktøren med de 3 parametre
+    Menu menu = new Menu("\nHOVEDMENU", "Vælg en mulighed: ", menuItem); //Bruger konstruktøren med de 3 parametre
     menu.printMenu();
     int choice = menu.readChoice(); //Her laver vi metoden om til en variablen som vi kalder for choice som altså er "input"
     boolean checkChoice; //Denne boolean skal jeg bruge til at lave en do while loop fordi den skal blive ved med at spøge hvis man skriver et andet tal end 1,2,3,9.
@@ -24,12 +24,12 @@ public class MenuRun {
       switch (choice) { //Laver en switch som kontroller brugerens input
         case 1 -> {
           Pizza.pizzaMenu();
-          System.out.println("Registrer ordre nu: "); //Hvis bruger har skrevet 1 vil den sige dette
+          System.out.println("\nRegistrer ordre nu: "); //Hvis bruger har skrevet 1 vil den sige dette
           RegisterOrdre.registerPizza(0, 2, "a", 2);
           checkChoice = true;
         }
         case 2 -> {
-          System.out.println("Se nuværende ordrer"); // Hvis bruger har skrevet 2 vil den sige dette
+          System.out.println("\nSe nuværende ordrer"); // Hvis bruger har skrevet 2 vil den sige dette
           CurrentOrders.current();
           checkChoice = true;
         }
@@ -38,18 +38,18 @@ public class MenuRun {
           checkChoice = true;
         }
         case 4 -> {
-          System.out.println("Total omsætning: ");
+          System.out.println("\nTotal omsætning: ");
           System.out.print(FufilledOrders.revenue());
           System.out.println(" Kr.");
           checkChoice = true;
         }
         case 5 -> {
-          System.out.println("Populære ordrer");
+          System.out.println("\nPopulære ordrer");
           FufilledOrders.popularOrder();
           checkChoice = true;
         }
         case 6 -> {
-          System.out.println("Her er menukortet");
+          System.out.println("\nHer er menukortet");
           Pizza.pizzaMenu();
           run();
           checkChoice = true;

@@ -31,6 +31,8 @@ public class CurrentOrders {
       sub = sub.substring(0, sub.indexOf(" "));
       if (Integer.parseInt(sub) == orderID) {
         RegisterOrdre.currentOrders.remove(order);
+        System.out.println("Den er nu slettet");
+
       }
       while (true) MenuRun.run();
     }
@@ -48,6 +50,8 @@ public class CurrentOrders {
       if (Integer.parseInt(sub) == ordreID) {
         fufilledOrders.add(order);
         RegisterOrdre.currentOrders.remove(order);
+        System.out.println("Den er nu fuldført");
+        System.out.println("Nu kan du se den under “Håndtering af ordrer --> Se fuldførte ordrer“");
 
       }
       while (true) MenuRun.run();
