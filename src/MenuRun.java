@@ -34,7 +34,7 @@ public class MenuRun {
           checkChoice = true;
         }
         case 3 -> {
-          runHaendtering();
+          runHaandtering();
           checkChoice = true;
         }
         case 4 -> {
@@ -70,7 +70,7 @@ public class MenuRun {
     } while (!checkChoice); //Den skal blive ved med at loop så længe den er false altså en integer som ikke er 1,2,3 eller 9
   }
 
-  public static void runHaendtering(){
+  public static void runHaandtering(){
     String[] menuItem = new String[5];
     menuItem[1]="Fuldfør ordre";
     menuItem[2]="Slet ordre";
