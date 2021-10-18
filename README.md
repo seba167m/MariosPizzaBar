@@ -61,6 +61,8 @@ Risikoanalyse og risikoplan
    - Se nuværende ordre
    - Registrer bestilling
 
+* Matrix Diagram
+
 <h2> Programmering  </h2>
 
 **Vi har kodet alle 4 Use Cases**
