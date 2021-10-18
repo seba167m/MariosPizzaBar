@@ -5,19 +5,19 @@
 Gruppe Nummer: 1
 
 Malthe Holm Karlsson <br>
-IfMalthereturnawesome <br>
+GitHub brugernavn: IfMalthereturnawesome <br>
 https://github.com/ifmalthereturnawesome/
 
 Mohammad Adel Murtada  <br>
-Mojens <br>
+GitHub brugernavn: Mojens <br>
 https://github.com/mojens
 
 Simon Igild <br>
-Chinesethunder <br>
+GitHub brugernavn: Chinesethunder <br>
 https://github.com/chinesethunder
 
 Sebastian Bak Lundahl <br>
-seba167m <br>
+GitHub brugernavn: seba167m <br>
 https://github.com/seba167m/
 
 <h2> Virksomhed </h2>
@@ -60,6 +60,8 @@ Risikoanalyse og risikoplan
    - Fuldfør ordre
    - Se nuværende ordre
    - Registrer bestilling
+
+* Matrix Diagram
 
 <h2> Programmering  </h2>
 
