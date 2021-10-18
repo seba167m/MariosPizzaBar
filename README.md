@@ -66,10 +66,12 @@ Risikoanalyse og risikoplan
 **Vi har kodet alle 4 Use Cases**
    - Registrer bestilling
    - Se ordrene
-   - Bestillings Håndtering
+   - Bestillings håndtering
    - Se regnskab
 
-*Note til programmerings delen:*
+Dog ikke, *rediger bestilling* under *Bestillings Håndtering*
+
+***Note til programmerings delen:***
 
 Vi endte ved et lille uheld at komme til at lave en af vores ArrayLists af typen String. </br>
 Vi spurgte en tutor om hjælp, og han sagde vi enten kunne lave noget af det om eller lærer os en "fix løsning" </br>
