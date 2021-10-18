@@ -77,7 +77,7 @@ Vi endte ved et lille uheld at komme til at lave en af vores ArrayLists af typen
 Vi spurgte en tutor om hjælp, og han sagde vi enten kunne lave noget af det om eller lærer os en "fix løsning" </br>
 til at håndterer en ArrayList af datatypen String.
 
-Vi valgte at prøve og fandt hurtigt ud at det var en lappe løsning, på noget der ellers er så simpelt. </br>
+Vi valgte at implementere dette og fandt hurtigt ud af, at det var en lappe løsning på noget der ellers er så simpelt. </br>
 
 Til en anden gang, har vi lært at hvis vi stødder på et problem i fremtiden, er det altid bedre at bruge det ekstra tid, på at lave koden om, </br>
 så man ikke ender med at skulle lave lappe løsninger på det hele, og i den sidste ende gøre det mere besværligt end det burde.
