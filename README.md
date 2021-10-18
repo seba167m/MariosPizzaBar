@@ -6,12 +6,11 @@ Gruppe Nummer: 1
 
 Malthe Holm Karlsson <br>
 IfMalthereturnawesome <br>
-https://github.com/IfMalthereturnawesome/
+https://github.com/ifmalthereturnawesome/
 
 Mohammad Adel Murtada  <br>
 Mojens <br>
-https://github.com/Mojens
-
+https://github.com/mojens
 
 Simon Igild <br>
 Chinesethunder <br>
@@ -81,7 +80,9 @@ Vi valgte at prøve og fandt hurtigt ud at det var en lappe løsning, på noget 
 Til en anden gang, har vi lært at hvis vi stødder på et problem i fremtiden, er det altid bedre at bruge det ekstra tid, på at lave koden om, </br>
 så man ikke ender med at skulle lave lappe løsninger på det hele, og i den sidste ende gøre det mere besværligt end det burde.
 
-Men på den lyse side har vi lært disse nye ting:
+
+
+Men på den lyse side har vi lært disse nye koncepter:
 * Hashmaps
 * Treemaps
 * Substrings
