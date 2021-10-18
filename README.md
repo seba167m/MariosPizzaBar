@@ -1,6 +1,6 @@
 <h1> MariosPizzaBar </h1>
 
-<h2> Gruppe informationer </h2>
+<h2> Gruppe Informationer </h2>
 
 Gruppe Nummer: 1
 
