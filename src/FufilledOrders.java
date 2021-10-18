@@ -28,11 +28,11 @@ public class FufilledOrders {
     for (String findAll : fufilled) {
       String pizza = findAll.substring(findAll.indexOf("Pizza: ") + 7);
       pizza = pizza.substring(0, pizza.indexOf(" "));
-      //String order = findAll.substring(findAll.indexOf("Order ID: ") + 10);
-      //order = order.substring(0, order.indexOf(" "));
-      //int orders = Integer.parseInt(order);
+      String order = findAll.substring(findAll.indexOf("Order ID: ") + 10);
+      order = order.substring(0, order.indexOf(" "));
+      int orders = Integer.parseInt(order);
       int pizzaer = Integer.parseInt(pizza);
-      sorterEfterPizza.put(pizzaer, findAll);
+      sorterEfterPizza.put(orders+pizzaer, findAll);
     }
 
       fufilled = new ArrayList<>(sorterEfterPizza.values());
