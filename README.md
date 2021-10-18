@@ -5,19 +5,19 @@
 Gruppe Nummer: 1
 
 Malthe Holm Karlsson <br>
-IfMalthereturnawesome <br>
+Github brugernavn: IfMalthereturnawesome <br>
 https://github.com/ifmalthereturnawesome/
 
 Mohammad Adel Murtada  <br>
-Mojens <br>
+Github brugernavn: Mojens <br>
 https://github.com/mojens
 
 Simon Igild <br>
-Chinesethunder <br>
+Github brugernavn: Chinesethunder <br>
 https://github.com/chinesethunder
 
 Sebastian Bak Lundahl <br>
-seba167m <br>
+Github brugernavn: seba167m <br>
 https://github.com/seba167m/
 
 <h2> Virksomhed </h2>
